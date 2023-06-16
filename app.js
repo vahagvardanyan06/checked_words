@@ -31,3 +31,4 @@ function correctingWord(word){
       }
     return correctWord
 }
+
